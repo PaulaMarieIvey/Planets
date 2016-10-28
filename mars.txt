@@ -1,3 +1,5 @@
 Mars is  a red planet
 How many moons does mars have ?
 Mars is the fourth from the sun
+
+Curiosity was here!
